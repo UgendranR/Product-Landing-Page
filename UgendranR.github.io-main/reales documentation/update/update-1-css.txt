@@ -1,0 +1,18 @@
+/*----------------------------------------*/
+/*----- Update 1 -----*/
+/*----------------------------------------*/
+/*== page title section ==*/
+.dtr-page-title-wrapper { position: relative; background-repeat: no-repeat; background-position: center center; background-size: auto; border-width: 0; border-style: solid; text-align: center; padding: 200px 0 100px 0; }
+.dtr-entry-title, .dtr-entry-subtitle { margin: 0; }
+/*== blockquote ==*/
+/* bordered quote */
+.dtr-bordered-blockquote { padding: 5px 0 5px 20px; border-left: 2px solid #e5e5e5; font-size: 18px; line-height: 32px; font-style: italic; }
+.dtr-bordered-blockquote .dtr-quote-source { display: inline-block; margin-top: 10px; font-size: 14px; font-weight: 500; font-style: normal; }
+.dtr-entry-title { font-size: 2.824em; line-height: 1.2em; letter-spacing: -2px; }
+.widget-title { padding: 15px; margin-bottom: 30px; text-align: center; }
+/*== entry data ==*/
+.entry-img { margin-bottom: 20px; }
+.entry-meta { width: 100%; list-style-type: none; display: block; margin: 0 0 30px 0; padding: 0; }
+.entry-meta li { float: left; margin: 0 10px 0 0; padding: 0; }
+.entry-meta li:last-child { margin: 0; }
+.entry-meta li:before { font-family: 'icomoon'; content: "\f192"; font-weight: normal; margin-right: 10px; font-size: 6px; }
